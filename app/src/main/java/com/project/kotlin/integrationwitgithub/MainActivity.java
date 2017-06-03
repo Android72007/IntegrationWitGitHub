@@ -14,6 +14,12 @@ public class MainActivity extends AppCompatActivity {
     public void increment(){
         int x = 0;
         x=x+1;
-        x=x+2;
+        x=x+4;
+    }
+
+    public void decrement(){
+        int x = 0;
+        x=x+1;
+        x=x+4;
     }
 }
