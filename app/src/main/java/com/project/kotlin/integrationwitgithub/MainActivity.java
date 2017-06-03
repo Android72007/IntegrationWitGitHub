@@ -17,4 +17,26 @@ public class MainActivity extends AppCompatActivity {
         x=x+4;
     }
 
+    public void decrement(){
+        int x = 0;
+        x=x+1;
+        x=x+4;
+    }
+
+    public void incdec(){
+        int x = 0;
+        x=x+1;
+        x=x+4;
+    }
+
+    public void inc(){
+        int x = 0;
+        x=x+1;
+        x=x+4;
+    }
+    public void dec(){
+        int x = 0;
+        x=x+1;
+        x=x+43;
+    }
 }
