@@ -22,5 +22,9 @@ public class MainActivity extends AppCompatActivity {
         x=x+1;
         x=x+5;
     }
-
+    public void dec(){
+        int x = 0;
+        x=x+1;
+        x=x+5;
+    }
 }
